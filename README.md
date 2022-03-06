@@ -10,7 +10,7 @@ Discord: MLGRussianXP#7777 (не отправляйте заявки в друз
 ### Проекты
 - Сейчас я работаю над Discord ботами.
 
-- У меня есть свой [майнкрафт сервер](https://discord.gg/hhbaKr9ubp)
+- У меня есть свой [майнкрафт сервер](https://discord.gg/hhbaKr9ubp).
 
-
+#
 [![MLGRussianXP's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLGRussianXP)](https://github.com/mlgrussianxp/github-readme-stats)
