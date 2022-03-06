@@ -1,11 +1,9 @@
-## Hi there 👋
+## Привет 👋
 
-· 🔭 I’m currently working on Discord bots and more.
+· 🔭 Сейчас я работаю над Discord ботами и не только.
 
+· 🌱 Сейчас я изучаю Python в Академии Яндекса.
 
-· 🌱 I'm currently studying Python at the Yandex Academy.
+· 📫 Как со мной связаться (пишите сразу по делу):
 
-
-· 📫 How to reach me:
-
-Discord: MLGRussianXP#7777 (do not send friend requests)
+Discord: MLGRussianXP#7777 (не отправляйте заявки в друзья)
