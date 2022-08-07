@@ -4,7 +4,7 @@
 
 ## 🛠️ Навыки
 ### Языки
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLGRussianXP)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLGRussianXP)
 
 
 ### Front-End разработка
